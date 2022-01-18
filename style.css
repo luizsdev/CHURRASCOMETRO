@@ -1,0 +1,39 @@
+body{
+    background-image: url(/imagens/churrasco.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container{
+    border-radius: 10px;
+   padding: 5px;
+    border: 2px solid goldenrod;
+    transform: translateY(+50%);
+    max-width:300px;
+    background-color: rgb(121, 111, 78);
+    height: 400px;
+    margin: auto;
+    
+}
+.inputs{
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+#botao{
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+}
+.texto{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paragrafo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
