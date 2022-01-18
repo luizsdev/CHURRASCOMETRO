@@ -1,7 +1,5 @@
 body{
-    background-image: url(/imagens/churrasco.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: FAFED6;
 }
 .container{
     border-radius: 10px;
